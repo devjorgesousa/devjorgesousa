@@ -2,15 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,mysql" />
-  </a>
-</p>
-
-## Estou aprendendo
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,flask,docker" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,mysql,py,django,flask,docker" />
   </a>
 </p>
 
